@@ -1,0 +1,1255 @@
+{
+    "SesionesSalaColeccion": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+        "@xmlns": "http://opendata.camara.cl/camaradiputados/v1",
+        "Sesion": [
+            {
+                "Id": "4455",
+                "Numero": "1",
+                "FechaInicio": "2024-03-11T17:00:00",
+                "FechaTermino": "2024-03-11T19:17:08",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4456",
+                "Numero": "2",
+                "FechaInicio": "2024-03-12T10:04:22",
+                "FechaTermino": "2024-03-12T14:17:27",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4457",
+                "Numero": "3",
+                "FechaInicio": "2024-03-12T18:01:46",
+                "FechaTermino": "2024-03-12T19:29:17",
+                "Tipo": {
+                    "@Valor": "2",
+                    "#text": "Especial"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4458",
+                "Numero": "4",
+                "FechaInicio": "2024-03-13T10:02:40",
+                "FechaTermino": "2024-03-13T14:15:45",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4459",
+                "Numero": "5",
+                "FechaInicio": "2024-03-18T17:01:14",
+                "FechaTermino": "2024-03-18T19:16:16",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4460",
+                "Numero": "6",
+                "FechaInicio": "2024-03-19T10:05:28",
+                "FechaTermino": "2024-03-19T13:38:01",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4461",
+                "Numero": "7",
+                "FechaInicio": "2024-03-19T18:00:18",
+                "FechaTermino": "2024-03-19T20:01:20",
+                "Tipo": {
+                    "@Valor": "2",
+                    "#text": "Especial"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4462",
+                "Numero": "8",
+                "FechaInicio": "2024-03-20T10:02:30",
+                "FechaTermino": "2024-03-20T14:05:34",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4463",
+                "Numero": "9",
+                "FechaInicio": "2024-03-20T15:04:09",
+                "FechaTermino": "2024-03-20T15:28:09",
+                "Tipo": {
+                    "@Valor": "2",
+                    "#text": "Especial"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4464",
+                "Numero": "10",
+                "FechaInicio": "2024-04-01T17:00:53",
+                "FechaTermino": "2024-04-01T19:25:26",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4465",
+                "Numero": "11",
+                "FechaInicio": "2024-04-02T10:06:39",
+                "FechaTermino": "2024-04-02T14:09:13",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4466",
+                "Numero": "12",
+                "FechaInicio": "2024-04-02T19:30:00",
+                "FechaTermino": "2024-04-02T21:17:34",
+                "Tipo": {
+                    "@Valor": "2",
+                    "#text": "Especial"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4467",
+                "Numero": "13",
+                "FechaInicio": "2024-04-03T10:03:00",
+                "FechaTermino": "2024-04-03T14:29:04",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4468",
+                "Numero": "14",
+                "FechaInicio": "2024-04-08T17:01:39",
+                "FechaTermino": "2024-04-08T19:38:41",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4469",
+                "Numero": "15",
+                "FechaInicio": "2024-04-09T10:02:10",
+                "FechaTermino": "2024-04-09T14:05:45",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4470",
+                "Numero": "16",
+                "FechaInicio": "2024-04-09T19:30:17",
+                "FechaTermino": "2024-04-09T20:24:47",
+                "Tipo": {
+                    "@Valor": "2",
+                    "#text": "Especial"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4471",
+                "Numero": "17",
+                "FechaInicio": "2024-04-10T10:02:42",
+                "FechaTermino": "2024-04-10T14:09:16",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4472",
+                "Numero": "18",
+                "FechaInicio": "2024-04-15T17:00:00",
+                "FechaTermino": "2024-04-15T19:51:08",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4473",
+                "Numero": "19",
+                "FechaInicio": "2024-04-16T10:03:27",
+                "FechaTermino": "2024-04-16T13:14:00",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4474",
+                "Numero": "20",
+                "FechaInicio": "2024-04-17T10:03:03",
+                "FechaTermino": "2024-04-17T14:57:09",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4475",
+                "Numero": "21",
+                "FechaInicio": "2024-04-22T17:03:45",
+                "FechaTermino": "2024-04-22T20:03:18",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4476",
+                "Numero": "22",
+                "FechaInicio": "2024-04-23T10:02:38",
+                "FechaTermino": "2024-04-23T14:54:43",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4477",
+                "Numero": "23",
+                "FechaInicio": "2024-04-24T10:03:14",
+                "FechaTermino": "2024-04-24T13:30:48",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4478",
+                "Numero": "24",
+                "FechaInicio": "2024-05-03T16:00:00",
+                "FechaTermino": "2024-05-03T23:52:57",
+                "Tipo": {
+                    "@Valor": "2",
+                    "#text": "Especial"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4479",
+                "Numero": "25",
+                "FechaInicio": "2024-05-06T17:01:34",
+                "FechaTermino": "2024-05-06T19:12:36",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4480",
+                "Numero": "26",
+                "FechaInicio": "2024-05-07T10:04:25",
+                "FechaTermino": "2024-05-07T13:47:28",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4481",
+                "Numero": "27",
+                "FechaInicio": "2024-05-08T10:03:12",
+                "FechaTermino": "2024-05-08T13:46:15",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4482",
+                "Numero": "28",
+                "FechaInicio": "2024-05-13T17:03:21",
+                "FechaTermino": "2024-05-13T19:04:23",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4483",
+                "Numero": "29",
+                "FechaInicio": "2024-05-14T10:04:17",
+                "FechaTermino": "2024-05-14T13:56:21",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4484",
+                "Numero": "30",
+                "FechaInicio": "2024-05-14T19:30:41",
+                "FechaTermino": "2024-05-14T21:32:13",
+                "Tipo": {
+                    "@Valor": "2",
+                    "#text": "Especial"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4485",
+                "Numero": "31",
+                "FechaInicio": "2024-05-15T10:03:36",
+                "FechaTermino": "2024-05-15T14:09:40",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4486",
+                "Numero": "32",
+                "FechaInicio": "2024-05-29T17:00:00",
+                "FechaTermino": "2024-05-29T20:05:58",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4487",
+                "Numero": "33",
+                "FechaInicio": "2024-05-30T10:04:15",
+                "FechaTermino": "2024-05-30T13:59:20",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4488",
+                "Numero": "34",
+                "FechaInicio": "2024-05-30T19:33:12",
+                "FechaTermino": "2024-05-30T21:30:14",
+                "Tipo": {
+                    "@Valor": "2",
+                    "#text": "Especial"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4489",
+                "Numero": "35",
+                "FechaInicio": "2024-05-31T10:04:58",
+                "FechaTermino": "2024-05-31T14:37:03",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4500",
+                "Numero": "0",
+                "FechaInicio": "2024-06-01T00:00:00",
+                "FechaTermino": "2024-06-01T00:00:00",
+                "Tipo": {
+                    "@Valor": "3",
+                    "#text": "Congreso Pleno"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4490",
+                "Numero": "36",
+                "FechaInicio": "2024-06-03T17:04:21",
+                "FechaTermino": "2024-06-03T19:14:24",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4491",
+                "Numero": "37",
+                "FechaInicio": "2024-06-04T10:03:12",
+                "FechaTermino": "2024-06-04T13:27:15",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4492",
+                "Numero": "38",
+                "FechaInicio": "2024-06-05T10:04:58",
+                "FechaTermino": "2024-06-05T14:13:00",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4493",
+                "Numero": "39",
+                "FechaInicio": "2024-06-10T17:01:41",
+                "FechaTermino": "2024-06-10T19:24:14",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4494",
+                "Numero": "40",
+                "FechaInicio": "2024-06-11T10:05:14",
+                "FechaTermino": "2024-06-11T13:54:48",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4495",
+                "Numero": "41",
+                "FechaInicio": "2024-06-12T10:04:56",
+                "FechaTermino": "2024-06-12T13:47:59",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4496",
+                "Numero": "42",
+                "FechaInicio": "2024-06-17T17:01:59",
+                "FechaTermino": "2024-06-17T19:13:31",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4497",
+                "Numero": "43",
+                "FechaInicio": "2024-06-18T10:05:23",
+                "FechaTermino": "2024-06-18T14:02:57",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4498",
+                "Numero": "44",
+                "FechaInicio": "2024-06-19T10:05:18",
+                "FechaTermino": "2024-06-19T14:02:22",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4499",
+                "Numero": "45",
+                "FechaInicio": "2024-07-01T17:00:00",
+                "FechaTermino": "2024-07-01T20:13:29",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4501",
+                "Numero": "46",
+                "FechaInicio": "2024-07-02T10:05:44",
+                "FechaTermino": "2024-07-02T13:57:48",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4502",
+                "Numero": "47",
+                "FechaInicio": "2024-07-03T10:01:34",
+                "FechaTermino": "2024-07-03T14:23:38",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4503",
+                "Numero": "48",
+                "FechaInicio": "2024-07-04T10:07:14",
+                "FechaTermino": "2024-07-04T12:43:17",
+                "Tipo": {
+                    "@Valor": "2",
+                    "#text": "Especial"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4504",
+                "Numero": "49",
+                "FechaInicio": "2024-07-08T17:00:00",
+                "FechaTermino": "2024-07-08T19:21:19",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4505",
+                "Numero": "50",
+                "FechaInicio": "2024-07-09T10:04:47",
+                "FechaTermino": "2024-07-09T14:08:21",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4506",
+                "Numero": "51",
+                "FechaInicio": "2024-07-10T09:37:35",
+                "FechaTermino": "2024-07-10T10:58:36",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4507",
+                "Numero": "52",
+                "FechaInicio": "2024-07-10T16:35:55",
+                "FechaTermino": "2024-07-10T17:14:25",
+                "Tipo": {
+                    "@Valor": "2",
+                    "#text": "Especial"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4508",
+                "Numero": "53",
+                "FechaInicio": "2024-07-22T17:00:16",
+                "FechaTermino": "2024-07-22T18:49:17",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4509",
+                "Numero": "54",
+                "FechaInicio": "2024-07-23T10:03:36",
+                "FechaTermino": "2024-07-23T13:27:40",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4510",
+                "Numero": "55",
+                "FechaInicio": "2024-07-23T19:30:39",
+                "FechaTermino": "2024-07-23T21:10:12",
+                "Tipo": {
+                    "@Valor": "2",
+                    "#text": "Especial"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4511",
+                "Numero": "56",
+                "FechaInicio": "2024-07-24T10:02:24",
+                "FechaTermino": "2024-07-24T13:31:58",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4512",
+                "Numero": "57",
+                "FechaInicio": "2024-07-29T17:00:30",
+                "FechaTermino": "2024-07-29T19:56:03",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4513",
+                "Numero": "58",
+                "FechaInicio": "2024-07-30T10:05:30",
+                "FechaTermino": "2024-07-30T14:09:34",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4514",
+                "Numero": "59",
+                "FechaInicio": "2024-07-31T10:00:00",
+                "FechaTermino": "2024-07-31T14:29:27",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4515",
+                "Numero": "60",
+                "FechaInicio": "2024-08-05T17:03:49",
+                "FechaTermino": "2024-08-05T19:32:21",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4516",
+                "Numero": "61",
+                "FechaInicio": "2024-08-06T10:01:29",
+                "FechaTermino": "2024-08-06T13:59:33",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4517",
+                "Numero": "62",
+                "FechaInicio": "2024-08-06T19:31:02",
+                "FechaTermino": "2024-08-06T21:36:34",
+                "Tipo": {
+                    "@Valor": "2",
+                    "#text": "Especial"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4518",
+                "Numero": "63",
+                "FechaInicio": "2024-08-07T10:07:31",
+                "FechaTermino": "2024-08-07T13:50:04",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4519",
+                "Numero": "64",
+                "FechaInicio": "2024-08-12T17:03:22",
+                "FechaTermino": "2024-08-12T19:21:54",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4520",
+                "Numero": "65",
+                "FechaInicio": "2024-08-13T10:04:24",
+                "FechaTermino": "2024-08-13T13:50:28",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4521",
+                "Numero": "66",
+                "FechaInicio": "2024-08-14T10:07:21",
+                "FechaTermino": "2024-08-14T13:59:52",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4522",
+                "Numero": "67",
+                "FechaInicio": "2024-08-26T17:01:51",
+                "FechaTermino": "2024-08-26T19:09:50",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4523",
+                "Numero": "68",
+                "FechaInicio": "2024-08-27T10:02:15",
+                "FechaTermino": "2024-08-27T14:26:19",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4524",
+                "Numero": "69",
+                "FechaInicio": "2024-08-28T10:00:06",
+                "FechaTermino": "2024-08-28T14:09:10",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4525",
+                "Numero": "70",
+                "FechaInicio": "2024-09-02T17:01:19",
+                "FechaTermino": "2024-09-02T19:20:21",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4526",
+                "Numero": "71",
+                "FechaInicio": "2024-09-03T10:03:13",
+                "FechaTermino": "2024-09-03T13:39:17",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4527",
+                "Numero": "72",
+                "FechaInicio": "2024-09-04T10:06:20",
+                "FechaTermino": "2024-09-04T14:12:24",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4528",
+                "Numero": "73",
+                "FechaInicio": "2024-09-09T17:00:01",
+                "FechaTermino": "2024-09-09T19:16:33",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4529",
+                "Numero": "74",
+                "FechaInicio": "2024-09-10T10:04:20",
+                "FechaTermino": "2024-09-10T12:53:52",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4530",
+                "Numero": "75",
+                "FechaInicio": "2024-09-10T19:32:13",
+                "FechaTermino": "2024-09-10T21:21:46",
+                "Tipo": {
+                    "@Valor": "2",
+                    "#text": "Especial"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4531",
+                "Numero": "76",
+                "FechaInicio": "2024-09-11T10:01:31",
+                "FechaTermino": "2024-09-11T14:14:05",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4532",
+                "Numero": "77",
+                "FechaInicio": "2024-09-23T17:00:12",
+                "FechaTermino": "2024-09-23T20:13:16",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4533",
+                "Numero": "78",
+                "FechaInicio": "2024-09-24T10:04:50",
+                "FechaTermino": "2024-09-24T14:09:24",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4534",
+                "Numero": "79",
+                "FechaInicio": "2024-09-25T10:03:26",
+                "FechaTermino": "2024-09-25T14:24:30",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4535",
+                "Numero": "80",
+                "FechaInicio": "2024-09-30T17:01:27",
+                "FechaTermino": "2024-09-30T19:35:29",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4536",
+                "Numero": "81",
+                "FechaInicio": "2024-10-01T10:03:24",
+                "FechaTermino": "2024-10-01T14:02:28",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4537",
+                "Numero": "82",
+                "FechaInicio": "2024-10-01T19:32:52",
+                "FechaTermino": "2024-10-01T21:08:25",
+                "Tipo": {
+                    "@Valor": "2",
+                    "#text": "Especial"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4538",
+                "Numero": "83",
+                "FechaInicio": "2024-10-02T10:05:04",
+                "FechaTermino": "2024-10-02T14:03:08",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4539",
+                "Numero": "84",
+                "FechaInicio": "2024-10-07T17:03:21",
+                "FechaTermino": "2024-10-07T19:30:24",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4540",
+                "Numero": "85",
+                "FechaInicio": "2024-10-08T10:05:31",
+                "FechaTermino": "2024-10-08T13:44:35",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4541",
+                "Numero": "86",
+                "FechaInicio": "2024-10-09T10:01:04",
+                "FechaTermino": "2024-10-09T18:36:13",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4542",
+                "Numero": "87",
+                "FechaInicio": "2024-10-10T10:03:20",
+                "FechaTermino": "2024-10-10T13:40:54",
+                "Tipo": {
+                    "@Valor": "2",
+                    "#text": "Especial"
+                },
+                "Estado": {
+                    "@Valor": "1",
+                    "#text": "Celebrada"
+                }
+            },
+            {
+                "Id": "4543",
+                "Numero": "88",
+                "FechaInicio": "2024-10-14T12:00:18",
+                "FechaTermino": "2024-10-14T23:55:18",
+                "Tipo": {
+                    "@Valor": "1",
+                    "#text": "Ordinaria"
+                },
+                "Estado": {
+                    "@Valor": "0",
+                    "#text": "Citada"
+                }
+            }
+        ]
+    }
+}

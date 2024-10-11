@@ -1,0 +1,15 @@
+{
+    "Legislatura": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+        "@xmlns": "http://opendata.camara.cl/camaradiputados/v1",
+        "Id": "56",
+        "Numero": "372",
+        "FechaInicio": "2024-03-11T00:00:00",
+        "FechaTermino": "2025-03-10T23:59:59",
+        "Tipo": {
+            "@Valor": "3",
+            "#text": "-"
+        }
+    }
+}

@@ -1,0 +1,762 @@
+{
+    "Votacion": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+        "@xmlns": "http://opendata.camara.cl/camaradiputados/v1",
+        "Id": "42585",
+        "Descripcion": "OTROS-Solicitud del diputado/a Undurraga para que el proyecto de ley correspondiente al boletín N° 16622-18 sea conocido por la Comisión de Constitución (punto 6 de la cuenta).",
+        "Fecha": "2024-01-30T10:10:19",
+        "TotalSi": "39",
+        "TotalNo": "21",
+        "TotalAbstencion": "1",
+        "TotalDispensado": "0",
+        "Quorum": {
+            "@Valor": "1",
+            "#text": "Quórum Simple"
+        },
+        "Resultado": {
+            "@Valor": "1",
+            "#text": "Aprobado"
+        },
+        "Tipo": {
+            "@Valor": "4",
+            "#text": "Otros"
+        },
+        "Votos": {
+            "Voto": [
+                {
+                    "Diputado": {
+                        "Id": "1121",
+                        "Nombre": "Eduardo",
+                        "ApellidoPaterno": "Cornejo",
+                        "ApellidoMaterno": "Lagos"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1172",
+                        "Nombre": "Stephan",
+                        "ApellidoPaterno": "Schubert",
+                        "ApellidoMaterno": "Rubio"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1112",
+                        "Nombre": "Ana María",
+                        "ApellidoPaterno": "Bravo",
+                        "ApellidoMaterno": "Castro"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1056",
+                        "Nombre": "Emilia",
+                        "ApellidoPaterno": "Nuyado",
+                        "ApellidoMaterno": "Ancapichún"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "815",
+                        "Nombre": "Sergio",
+                        "ApellidoPaterno": "Bobadilla",
+                        "ApellidoMaterno": "Muñoz"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "953",
+                        "Nombre": "Frank",
+                        "ApellidoPaterno": "Sauerbaum",
+                        "ApellidoMaterno": "Muñoz"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1015",
+                        "Nombre": "Jorge",
+                        "ApellidoPaterno": "Brito",
+                        "ApellidoMaterno": "Hasbún"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "0",
+                        "#text": "En Contra"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1160",
+                        "Nombre": "Alejandra",
+                        "ApellidoPaterno": "Placencia",
+                        "ApellidoMaterno": "Cabello"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "0",
+                        "#text": "En Contra"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1069",
+                        "Nombre": "Leonidas",
+                        "ApellidoPaterno": "Romero",
+                        "ApellidoMaterno": "Sáez"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1111",
+                        "Nombre": "Fernando",
+                        "ApellidoPaterno": "Bórquez",
+                        "ApellidoMaterno": "Montecinos"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1102",
+                        "Nombre": "Roberto",
+                        "ApellidoPaterno": "Arroyo",
+                        "ApellidoMaterno": "Muñoz"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1074",
+                        "Nombre": "Marisela",
+                        "ApellidoPaterno": "Santibáñez",
+                        "ApellidoMaterno": "Novoa"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "0",
+                        "#text": "En Contra"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1050",
+                        "Nombre": "Miguel",
+                        "ApellidoPaterno": "Mellado",
+                        "ApellidoMaterno": "Suazo"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1147",
+                        "Nombre": "Helia",
+                        "ApellidoPaterno": "Molina",
+                        "ApellidoMaterno": "Milman"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "0",
+                        "#text": "En Contra"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1161",
+                        "Nombre": "Francisco",
+                        "ApellidoPaterno": "Pulgar",
+                        "ApellidoMaterno": "Castillo"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1057",
+                        "Nombre": "Erika",
+                        "ApellidoPaterno": "Olivera",
+                        "ApellidoMaterno": "De La Fuente"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "2",
+                        "#text": "Abstención"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1164",
+                        "Nombre": "Marcela",
+                        "ApellidoPaterno": "Riquelme",
+                        "ApellidoMaterno": "Aliaga"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "0",
+                        "#text": "En Contra"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "74",
+                        "Nombre": "Jaime",
+                        "ApellidoPaterno": "Naranjo",
+                        "ApellidoMaterno": "Ortiz"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1162",
+                        "Nombre": "Matías",
+                        "ApellidoPaterno": "Ramírez",
+                        "ApellidoMaterno": "Pascal"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "0",
+                        "#text": "En Contra"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1108",
+                        "Nombre": "Juan Carlos",
+                        "ApellidoPaterno": "Beltrán",
+                        "ApellidoMaterno": "Silva"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1096",
+                        "Nombre": "María Candelaria",
+                        "ApellidoPaterno": "Acevedo",
+                        "ApellidoMaterno": "Sáez"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "0",
+                        "#text": "En Contra"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1059",
+                        "Nombre": "Ximena",
+                        "ApellidoPaterno": "Ossandón",
+                        "ApellidoMaterno": "Irarrázabal"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1019",
+                        "Nombre": "José Miguel",
+                        "ApellidoPaterno": "Castro",
+                        "ApellidoMaterno": "Bascuñán"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "0",
+                        "#text": "En Contra"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1163",
+                        "Nombre": "Marcia",
+                        "ApellidoPaterno": "Raphael",
+                        "ApellidoMaterno": "Mora"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1159",
+                        "Nombre": "Lorena",
+                        "ApellidoPaterno": "Pizarro",
+                        "ApellidoMaterno": "Sierra"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "0",
+                        "#text": "En Contra"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1140",
+                        "Nombre": "Daniel",
+                        "ApellidoPaterno": "Lilayu",
+                        "ApellidoMaterno": "Vivanco"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1138",
+                        "Nombre": "Henry",
+                        "ApellidoPaterno": "Leal",
+                        "ApellidoMaterno": "Bizama"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1165",
+                        "Nombre": "Agustín",
+                        "ApellidoPaterno": "Romero",
+                        "ApellidoMaterno": "Leiva"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1099",
+                        "Nombre": "Jaime",
+                        "ApellidoPaterno": "Araya",
+                        "ApellidoMaterno": "Guerrero"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "0",
+                        "#text": "En Contra"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "971",
+                        "Nombre": "Bernardo",
+                        "ApellidoPaterno": "Berger",
+                        "ApellidoMaterno": "Fett"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1143",
+                        "Nombre": "Cristóbal",
+                        "ApellidoPaterno": "Martínez",
+                        "ApellidoMaterno": "Ramírez"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1116",
+                        "Nombre": "Felipe",
+                        "ApellidoPaterno": "Camaño",
+                        "ApellidoMaterno": "Cárdenas"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "0",
+                        "#text": "En Contra"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1022",
+                        "Nombre": "Sofía",
+                        "ApellidoPaterno": "Cid",
+                        "ApellidoMaterno": "Versalovic"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1002",
+                        "Nombre": "Leonardo",
+                        "ApellidoPaterno": "Soto",
+                        "ApellidoMaterno": "Ferrada"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1038",
+                        "Nombre": "Marcos",
+                        "ApellidoPaterno": "Ilabaca",
+                        "ApellidoMaterno": "Cerda"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1054",
+                        "Nombre": "Francesca",
+                        "ApellidoPaterno": "Muñoz",
+                        "ApellidoMaterno": "González"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "0",
+                        "#text": "En Contra"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1040",
+                        "Nombre": "Harry",
+                        "ApellidoPaterno": "Jürgensen",
+                        "ApellidoMaterno": "Rundshagen"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1168",
+                        "Nombre": "Jorge",
+                        "ApellidoPaterno": "Saffirio",
+                        "ApellidoMaterno": "Espinoza"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "0",
+                        "#text": "En Contra"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1027",
+                        "Nombre": "Jorge",
+                        "ApellidoPaterno": "Durán",
+                        "ApellidoMaterno": "Espinoza"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1127",
+                        "Nombre": "Lorena",
+                        "ApellidoPaterno": "Fries",
+                        "ApellidoMaterno": "Monleón"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "0",
+                        "#text": "En Contra"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1034",
+                        "Nombre": "Félix",
+                        "ApellidoPaterno": "González",
+                        "ApellidoMaterno": "Gatica"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "0",
+                        "#text": "En Contra"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1021",
+                        "Nombre": "Andrés",
+                        "ApellidoPaterno": "Celis",
+                        "ApellidoMaterno": "Montt"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1104",
+                        "Nombre": "Chiara",
+                        "ApellidoPaterno": "Barchiesi",
+                        "ApellidoMaterno": "Chávez"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1137",
+                        "Nombre": "Tomás",
+                        "ApellidoPaterno": "Lagomarsino",
+                        "ApellidoMaterno": "Guzmán"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1144",
+                        "Nombre": "Christian",
+                        "ApellidoPaterno": "Matheson",
+                        "ApellidoMaterno": "Villán"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1113",
+                        "Nombre": "Marta",
+                        "ApellidoPaterno": "Bravo",
+                        "ApellidoMaterno": "Salinas"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1169",
+                        "Nombre": "Clara",
+                        "ApellidoPaterno": "Sagardia",
+                        "ApellidoMaterno": "Cabezas"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "0",
+                        "#text": "En Contra"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1106",
+                        "Nombre": "Miguel Ángel",
+                        "ApellidoPaterno": "Becker",
+                        "ApellidoMaterno": "Alvear"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1081",
+                        "Nombre": "Francisco",
+                        "ApellidoPaterno": "Undurraga",
+                        "ApellidoMaterno": "Gazitúa"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1119",
+                        "Nombre": "Sara",
+                        "ApellidoPaterno": "Concha",
+                        "ApellidoMaterno": "Smith"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "0",
+                        "#text": "En Contra"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1065",
+                        "Nombre": "Guillermo",
+                        "ApellidoPaterno": "Ramírez",
+                        "ApellidoMaterno": "Diez"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1053",
+                        "Nombre": "Cristhian",
+                        "ApellidoPaterno": "Moreira",
+                        "ApellidoMaterno": "Barros"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1068",
+                        "Nombre": "Camila",
+                        "ApellidoPaterno": "Rojas",
+                        "ApellidoMaterno": "Valderrama"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "0",
+                        "#text": "En Contra"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1109",
+                        "Nombre": "Gustavo",
+                        "ApellidoPaterno": "Benavente",
+                        "ApellidoMaterno": "Vergara"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1133",
+                        "Nombre": "Juan",
+                        "ApellidoPaterno": "Irarrázaval",
+                        "ApellidoMaterno": "Rossel"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "999",
+                        "Nombre": "Jorge",
+                        "ApellidoPaterno": "Rathgeb",
+                        "ApellidoMaterno": "Schifferli"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1173",
+                        "Nombre": "Daniela",
+                        "ApellidoPaterno": "Serrano",
+                        "ApellidoMaterno": "Salazar"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "0",
+                        "#text": "En Contra"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1117",
+                        "Nombre": "Nathalie",
+                        "ApellidoPaterno": "Castillo",
+                        "ApellidoMaterno": "Rojas"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "0",
+                        "#text": "En Contra"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1118",
+                        "Nombre": "Ricardo",
+                        "ApellidoPaterno": "Cifuentes",
+                        "ApellidoMaterno": "Lillo"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "1115",
+                        "Nombre": "Mercedes",
+                        "ApellidoPaterno": "Bulnes",
+                        "ApellidoMaterno": "Núñez"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "0",
+                        "#text": "En Contra"
+                    }
+                },
+                {
+                    "Diputado": {
+                        "Id": "803",
+                        "Nombre": "René",
+                        "ApellidoPaterno": "Alinco",
+                        "ApellidoMaterno": "Bustos"
+                    },
+                    "OpcionVoto": {
+                        "@Valor": "1",
+                        "#text": "Afirmativo"
+                    }
+                }
+            ]
+        }
+    }
+}

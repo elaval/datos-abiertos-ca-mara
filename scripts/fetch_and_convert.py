@@ -6,32 +6,28 @@ import json
 import os
 
 def fetch_and_convert():
-    # URL of the web service
-    url = "https://opendata.camara.cl/camaradiputados/WServices/WSDiputado.asmx/retornarDiputados"
+    endpoints = {
+        'diputados': 'https://opendata.camara.cl/camaradiputados/WServices/WSDiputado.asmx/retornarDiputados',
+        'diputadosPeriodoActual': 'https://opendata.camara.cl/camaradiputados/WServices/WSDiputado.asmx/retornarDiputadosPeriodoActual?',  # Replace with actual URL
+        # Add more endpoints as needed
+    }
 
-    try:
-        # Fetch the XML data
-        response = requests.get(url)
-        response.raise_for_status()  # Raise an error for bad status codes
-        xml_content = response.content
+    for filename, url in endpoints.items():
+        try:
+            response = requests.get(url)
+            response.raise_for_status()
+            xml_content = response.content
+            data_dict = xmltodict.parse(xml_content)
+            json_data = json.dumps(data_dict, ensure_ascii=False, indent=4)
 
-        # Convert XML to dict
-        data_dict = xmltodict.parse(xml_content)
+            os.makedirs('data', exist_ok=True)
+            with open(f'data/{filename}.json', 'w', encoding='utf-8') as f:
+                f.write(json_data)
 
-        # Convert dict to JSON
-        json_data = json.dumps(data_dict, ensure_ascii=False, indent=4)
+            print(f"{filename}.json successfully updated.")
 
-        # Ensure the data directory exists
-        os.makedirs('data', exist_ok=True)
-
-        # Save the JSON data
-        with open('data/diputados.json', 'w', encoding='utf-8') as f:
-            f.write(json_data)
-
-        print("Data successfully fetched and converted.")
-
-    except requests.exceptions.RequestException as e:
-        print(f"An error occurred: {e}")
+        except requests.exceptions.RequestException as e:
+            print(f"An error occurred while fetching {filename}: {e}")
 
 if __name__ == "__main__":
     fetch_and_convert()
