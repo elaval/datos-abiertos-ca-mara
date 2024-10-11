@@ -1,0 +1,40 @@
+name: Update Data Daily
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at 00:00 UTC every day
+  workflow_dispatch:      # Allows manual triggering
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install Dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Run Data Fetch Script
+      run: |
+        python scripts/fetch_and_convert.py
+
+    - name: Commit and Push Changes
+      run: |
+        git config --global user.name "GitHub Actions Bot"
+        git config --global user.email "<>"
+        git add data/diputados.json
+        git commit -m "Automated data update"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
