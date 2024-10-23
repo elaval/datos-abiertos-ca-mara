@@ -9,6 +9,8 @@ def fetch_and_convert():
     endpoints = {
         'diputados': 'https://opendata.camara.cl/camaradiputados/WServices/WSDiputado.asmx/retornarDiputados',
         'diputadosPeriodoActual': 'https://opendata.camara.cl/camaradiputados/WServices/WSDiputado.asmx/retornarDiputadosPeriodoActual?',  # Replace with actual URL
+        'diputadosPeriodo_2002_2006': 'https://opendata.camara.cl/camaradiputados/WServices/WSDiputado.asmx/retornarDiputadosXPeriodo?prmPeriodoId=4',
+        'diputadosPeriodo_2006_2010': 'https://opendata.camara.cl/camaradiputados/WServices/WSDiputado.asmx/retornarDiputadosXPeriodo?prmPeriodoId=5'
         # Add more endpoints as needed
     }
 

@@ -6091,11 +6091,20 @@
                             },
                             {
                                 "FechaInicio": "2022-03-11T00:00:00",
-                                "FechaTermino": "2026-03-10T23:59:59",
+                                "FechaTermino": "2024-10-14T23:59:59",
                                 "Partido": {
                                     "Id": "PREP",
                                     "Nombre": "Partido Republicano",
                                     "Alias": "PREP"
+                                }
+                            },
+                            {
+                                "FechaInicio": "2024-10-15T00:00:00",
+                                "FechaTermino": "2026-03-10T23:59:59",
+                                "Partido": {
+                                    "Id": "RN",
+                                    "Nombre": "Renovación Nacional",
+                                    "Alias": "RN"
                                 }
                             }
                         ]
